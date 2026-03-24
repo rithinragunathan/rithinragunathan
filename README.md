@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+systems+from+first+principles.;AI+%2F+ML+%7C+Computer+Vision+%7C+DeepStream;RAG+from+scratch+%7C+YOLO+Pipelines;Learning+every+single+day+%E2%9C%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+every+single+day+%E2%9C%A6;Java+Developer+%7C+Backend+Engineer;Building+systems+from+first+principles.;AI+%2F+ML+%7C+Computer+Vision+%7C+DeepStream;RAG+from+scratch+%7C+YOLO+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -200,16 +200,16 @@ rithin = {
 ## ◈ Currently Learning
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🌐  Backend Dev      →   Spring Boot, REST APIs          │
-│   🎨  Frontend Dev     →   React, component architecture    │
-│   ☁️  Cloud & DevOps   →   AWS (EC2, S3), Docker           │
-│   🧬  Transformers     →   From scratch, code-first         │
-│   🤖  Advanced GenAI   →   Agents, eval, long context       │
-│   🐧  Linux Internals  →   Process mgmt, perf tuning        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   🌐  Backend Dev      →   Spring Boot, REST APIs            │
+│   🎨  Frontend Dev     →   React, component architecture     │
+│   ☁️  Cloud & DevOps   →   AWS (EC2, S3), Docker             │
+│   🧬  Transformers     →   From scratch, code-first          │
+│   🤖  Advanced GenAI   →   Agents, eval, long context        │
+│   🐧  Linux Internals  →   Process mgmt, perf tuning         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ---

@@ -40,6 +40,7 @@ rithin = {
 | Python | Intermediate → Advanced | Primary language for AI/ML work |
 | Java | Solid | OOP, DSA problem solving |
 | C++ | Basic | STL, strings |
+| javaScript| Basic |Basic Function|
 
 ---
 

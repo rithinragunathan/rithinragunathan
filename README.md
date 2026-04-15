@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rithin%20Ragunathan&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Engineering%20Student%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision&descColor=94a3b8&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rithin%20Ragunathan&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Engineering%20Student%20%E2%80%A2%20Java%20%E2%80%A2%20Computer%20Vision&descColor=94a3b8&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+every+single+day+%E2%9C%A6;Java+Developer+%7C+Backend+Engineer;Building+systems+from+first+principles.;AI+%2F+ML+%7C+Computer+Vision+%7C+DeepStream;RAG+from+scratch+%7C+YOLO+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+every+single+day+%E2%9C%A6;Java+Developer+%7C+Backend+Engineer;Building+systems+from+first+principles.;+%7C+Computer+Vision+%7C+DeepStream;RAG+from+scratch+%7C+YOLO+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 rithin = {
     "institute"  : "Bannari Amman Institute of Technology, Sathyamangalam",
     "branch"     : "Electronics & Communication Engineering (ECE)",
-    "focus"      : ["AI/ML", "Computer Vision", "Edge AI", "Generative AI"],
+    "focus"      : ["GEN AI", "Computer Vision", "Java", "Backend"],
     "philosophy" : "Understand how things work at the deepest level — then build.",
     "approach"   : "First principles before frameworks. Always.",
     "portfolio"  : "https://rithinragunathan.github.io/Portfolio/",
